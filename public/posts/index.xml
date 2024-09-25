@@ -4,15 +4,20 @@
     <title>Posts on Norbert Fucsko blog</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Norbert Fucsko blog</description>
+    <image>
+      <title>Norbert Fucsko blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- 0.134.3</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Tue, 24 Sep 2024 22:05:57 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python: The Versatile Programming Language</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>http://localhost:1313/posts/python-test/</link>
       <pubDate>Tue, 24 Sep 2024 22:05:57 +0200</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>http://localhost:1313/posts/python-test/</guid>
       <description>&lt;p&gt;Python has become one of the most popular programming languages in the world, and for good reason. Its simplicity, readability, and versatility make it an excellent choice for beginners and experienced developers alike.&lt;/p&gt;
 &lt;h2 id=&#34;key-features-of-python&#34;&gt;Key Features of Python&lt;/h2&gt;
 &lt;ol&gt;

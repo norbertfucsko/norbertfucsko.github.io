@@ -1,7 +1,11 @@
-+++
-title = 'Python: The Versatile Programming Language'
-date = 2024-09-24T22:05:57+02:00
-+++
+---
+title: "Python: The Versatile Programming Language"
+date: 2024-09-24T22:05:57+02:00
+cover:
+  image: "images/python-icon-512x509-pb65l7gl.png"
+  alt: "Python icon"
+  relative: true
+---
 
 Python has become one of the most popular programming languages in the world, and for good reason. Its simplicity, readability, and versatility make it an excellent choice for beginners and experienced developers alike.
 

@@ -1,2 +1,0 @@
-# norbertfucsko.github.io
-

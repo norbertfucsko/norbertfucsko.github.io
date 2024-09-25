@@ -4,8 +4,13 @@
     <title>Tags on Norbert Fucsko blog</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Norbert Fucsko blog</description>
+    <image>
+      <title>Norbert Fucsko blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- 0.134.3</generator>
-    <language>en-us</language>
+    <language>en</language>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
