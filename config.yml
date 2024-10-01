@@ -11,6 +11,10 @@ buildExpired: false
 minify:
   disableXML: true
   minifyOutput: true
+services:
+  disqus:
+    enable: true
+    shortname: norbertfucskoblog
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -31,7 +35,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: true
